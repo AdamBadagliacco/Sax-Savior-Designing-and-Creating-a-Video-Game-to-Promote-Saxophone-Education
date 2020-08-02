@@ -1,6 +1,6 @@
 # Sax-Savior-Designing-and-Creating-a-Video-Game-to-Promote-Saxophone-Education
 
-This repository contains the paper and video presentation of my senior year capstone project. The paper contains all research and game documentation. The video is my presentation of my project as well as a demo of the game. 
+This repository contains the paper and video presentation of my senior year capstone project. The paper contains all research and game documentation. The video is my presentation of my project as well as a demo of the game found [here.](https://app.vidgrid.com/view/v8OHKBWLhZQF)  
 
 Abstract:
   Learning to play the saxophone can be difficult and costly. One must pay for the instrument, music lessons, as well as additional supplies. Once this financial bridge is crossed, students must learn basic notes, rhythms, and sight reading before they are able to play written music. This often leaves them discouraged and many quit before they have had the opportunity to experience the full potential of playing the instrument.
